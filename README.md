@@ -23,7 +23,7 @@ This is a simple implementation of the classic Flappy Bird game in Java using Sw
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your-Repository-URL]
+    git clone https://github.com/Shubhambhagat3226/Flappy-Bird.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
